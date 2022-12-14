@@ -1,3 +1,7 @@
+/*
+Problem Name : Richest Customer Wealth
+*/
+
 class Solution {
 public:
     int maximumWealth(vector<vector<int>>& accounts) {
