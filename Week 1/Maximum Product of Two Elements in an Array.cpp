@@ -1,3 +1,8 @@
+/*
+Problem Name : Maximum Product of Two Elements in an Array
+*/
+
+
 class Solution {
 public:
     int maxProduct(vector<int>& nums) {
